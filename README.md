@@ -14,7 +14,7 @@ This project was designed as part of the **Virtual Reality** course for the **Bi
 
 ## Demo
 
-Check out the [demo video](https://prodduke-my.sharepoint.com/:v:/g/personal/isr9_duke_edu/EQyrVDOOG2BGsFmhEj6d2hIBoZfb5_earjb6_sEwPjHIMQ?e=NczLCf) below for an overview of KineVirtual in action:
+Check out the [demo video](https://prodduke-my.sharepoint.com/:v:/g/personal/isr9_duke_edu/EQyrVDOOG2BGsFmhEj6d2hIBoZfb5_earjb6_sEwPjHIMQ?e=NczLCf) for an overview of KineVirtual in action.
 
 
 ## Contributing
